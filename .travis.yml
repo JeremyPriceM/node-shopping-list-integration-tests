@@ -3,5 +3,5 @@ node_js: node
 deploy:
   provider: heroku
   api_key:
-    secure: psoGIW0U73GdVotKTNm1cp7JlFSg86ISGb96X4IyfNT4grPaX0ryOOvp/cbhVW8wycUvXsLsBKMiWhdqRHY5cpYBS5EM1rg+QkJO6J5rfLo/pRFRO44b5713VMCCBQi4ZN1QhFT293UaaCGSXk/5l4IykwufefYZ4mELGMWqJNUGl+EY0eH9rRiMhfbvmapnnL7MIgcsjQz1DWv1ZhukSMR3oiUc2ne/LrN2ZG6nP+duEnFtuvJEzy1a4C/fM3p1s6VPBCkuqM7XpSqjaAo7rGHIKj6zEBelJ5BZgln8yTfOEND0sTEcF/m3+tr5s+lDBaHCiMyTb1eVVy+7vi39ERVkm7ViTjryWKz/g6WhmsScPPjNTZ1/nbKWPvXhSWgEiPBhjXdxYuSEWtIVss+tIe26jkEfHlQZN/o/VQ/n37MEfkXi47VjhBygWO3L/AInMgSVVodl4kKy8nPUlm+GePkBRND2GJtSMaknG6zlHtrO/KqwGzN2vg7+2WwUGrCJcrUgiBUnqpmB969kXHwEYU0W8hxnDoNlmWwixg2b7RBIMdATmFZj4NkWIY2ZX8RSc59grrSn/PA8rxB63W81ndFt7sMfjGyGcQlHP6FPCD/M70Bc4wE+85h3a8w27rxs09TVlsvqyl7Az1eOZGJ7r51M+g7W4U+t7Zg+ziS09oY=
+    secure: 285e36c1-d81a-4a8c-b1da-80d4a0fc7726
     app: guarded-fortress-67027
